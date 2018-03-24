@@ -23,7 +23,7 @@ TECNOLOGIAS DISPONIVEIS: Bootstrap, Jquery, Animate.css, FontAwesome, Normalize.
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <span class="one">Registro de camera.</span><br>
+                        <span class="one"><i class="fa fa-camera"></i> Registro de camera.</span><br>
                     </div>
                 </div>
                 <div class="row pdd">
