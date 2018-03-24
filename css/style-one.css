@@ -2,21 +2,41 @@
     CSS DA PAGINA;
 */
 /* 
-    Created on : 19/10/2017, 16:59:25
+    Created on : 24/03/2018, 11:55:25
     Author     : JAYLAN ESQUIVEL PEREIRA SANTOS
 */
-
+@font-face {
+     font-family: Bsans;
+     src: url('../font-awesome/B20Sans.ttf');
+}
 /***************************************** TOPO DA PAGINA *************************************************/
 
+body, html{
+    width: 100%; height: 100%;
+}
 
-
+.one{
+        font-family: Bsans,sans-serif;
+        font-size: 25px;
+        color: #B22222;
+}
+.two{
+        font-family: Bsans,sans-serif;
+}
+.pdd{
+    margin-top: 25px;
+}
 /***************************************** FIM DE TOPO DA PAGINA ******************************************/
 
 
 
 /************************************* CONTEUDO CENTRAL DA PAGINA *****************************************/
 
-
+.bg-geral{
+    background-color: #F5F5F5;
+    width: 100%; height: 100%;
+    padding: 20px;
+}
 
 
 /************************************* FIM DE CONTEUDO CENTRAL DA PAGINA **********************************/
