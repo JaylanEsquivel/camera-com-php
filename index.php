@@ -27,9 +27,37 @@ TECNOLOGIAS DISPONIVEIS: Bootstrap, Jquery, Animate.css, FontAwesome, Normalize.
                     </div>
                 </div>
                 <div class="row pdd">
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
                         <a href="" class="btn btn-success btn-lg two center-block">REGISTRAR AÇÃO</a>&nbsp;&nbsp;
                         <a href="" class="btn btn-info btn-lg two center-block">GRAVAR AÇÃO</a>
+                        <div class="row pdd">
+                            <div class="col-lg-12">
+                                <div class="row"> 
+                                    <div class="col-lg-3">
+                                        <img src="img/1.png" class="img-responsive" width="100%" />
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <img src="img/1.png" class="img-responsive" width="100%" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 bg-default">
+                        <table class="table table-condensed">
+                            <thead>
+                              <tr>
+                                <th># ID</th>
+                                <th>URL</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>1</td>
+                                <td>/fotos/1.png</td>
+                              </tr>
+                            </tbody>
+                        </table> 
                     </div>
                 </div>
             </div>
