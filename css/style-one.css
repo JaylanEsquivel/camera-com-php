@@ -44,6 +44,13 @@ body, html{
     border: solid 1px #c1c1c1;
 }
 
+.cor{
+    color: #c1c1c1;
+    position: absolute;
+    z-index: 99;
+    margin-left: 50%;
+    margin-top: -10%;
+}
 
 /************************************* FIM DE CONTEUDO CENTRAL DA PAGINA **********************************/
 
